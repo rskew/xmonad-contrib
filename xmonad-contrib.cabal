@@ -164,6 +164,7 @@ library
                         XMonad.Doc.Developing
                         XMonad.Doc.Extending
                         XMonad.Hooks.CurrentWorkspaceOnTop
+                        XMonad.Hooks.BorderColor
                         XMonad.Hooks.DebugEvents
                         XMonad.Hooks.DebugKeyEvents
                         XMonad.Hooks.DebugStack
